@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome!
+I'm a seasoned software engineer and developer focused on automation and web apps/APIs, currently implementing solutions on the Azure platform in enterprise IT.
 
-<!--
-**ginger-tek/ginger-tek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/ginger_tek"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ginger_tek?style=social"></a>
 
-Here are some ideas to get you started:
+## Current Technologies & Tools
+- PHP 8+
+- Vanilla HTML5 + CSS3 + ES6
+- Vue.js 3+
+- PowerShell
+- Azure Portal
+- Azure DevOps
+- Github
+- Jira/Confluence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=ginger-tek" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginger-tek" />
