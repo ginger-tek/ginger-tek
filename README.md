@@ -1,5 +1,5 @@
 # Welcome!
-I'm a seasoned software engineer and developer focused on automation and web apps/APIs, currently implementing enterprise solutions and open-source web libraries/apps.
+I'm a seasoned software engineer and developer focused on automation and web apps/APIs, building enterprise solutions, and creating web libraries/apps.
 
 <a href="https://twitter.com/ginger_tek"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ginger_tek?style=social"></a>
 
