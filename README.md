@@ -1,5 +1,5 @@
 # Welcome!
-I'm a seasoned software engineer and developer focused on automation and web apps/APIs, currently implementing solutions on the Azure platform in enterprise IT.
+I'm a seasoned software engineer and developer focused on automation and web apps/APIs, currently implementing enterprise solutions and open-source web libraries/apps.
 
 <a href="https://twitter.com/ginger_tek"><img alt="Twitter" src="https://img.shields.io/twitter/follow/ginger_tek?style=social"></a>
 
